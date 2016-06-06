@@ -1,0 +1,1 @@
+The Blink project consists of number of subprojects, most of these are developed to support a form of geographical information analysis.
