@@ -1,0 +1,6 @@
+[submodule "raster"]
+	path = raster
+	url = http://github.com/ahhz/raster
+[submodule "iterator"]
+	path = iterator
+	url = http://github.com/ahhz/iterator
