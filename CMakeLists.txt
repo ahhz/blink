@@ -1,4 +1,5 @@
 cmake_minimum_required (VERSION 3.0)
 project(blink)
-add_subdirectory(iterator)
+add_subdirectory(iterator) 
 add_subdirectory(raster)
+add_subdirectory(map_algebra)
