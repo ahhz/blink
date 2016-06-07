@@ -4,3 +4,18 @@
 [submodule "iterator"]
 	path = iterator
 	url = http://github.com/ahhz/iterator
+[submodule "map_algebra"]
+	path = map_algebra
+	url = http://github.com/ahhz/map_algebra
+[submodule "blink_test"]
+	path = blink_test
+	url = http://github.com/ahhz/blink_test
+[submodule "moving_window"]
+	path = moving_window
+	url = http://github.com/ahhz/moving_window
+[submodule "raster_tools"]
+	path = raster_tools
+	url = http://github.com/ahhz/raster_tools
+[submodule "resumable_dijkstra"]
+	path = resumable_dijkstra
+	url = http://github.com/ahhz/resumable_dijkstra
