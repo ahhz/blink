@@ -5,6 +5,7 @@
 [submodule "iterator"]
 	path = iterator
 	url = http://github.com/ahhz/iterator
+	branch = master
 [submodule "map_algebra"]
 	path = map_algebra
 	url = http://github.com/ahhz/map_algebra
