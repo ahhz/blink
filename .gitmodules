@@ -20,6 +20,7 @@
 [submodule "raster_tools"]
 	path = raster_tools
 	url = http://github.com/ahhz/raster_tools
+	branch = master
 [submodule "resumable_dijkstra"]
 	path = resumable_dijkstra
 	url = http://github.com/ahhz/resumable_dijkstra
