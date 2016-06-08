@@ -16,6 +16,7 @@
 [submodule "moving_window"]
 	path = moving_window
 	url = http://github.com/ahhz/moving_window
+	branch = master
 [submodule "raster_tools"]
 	path = raster_tools
 	url = http://github.com/ahhz/raster_tools
