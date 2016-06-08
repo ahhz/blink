@@ -9,6 +9,7 @@
 [submodule "map_algebra"]
 	path = map_algebra
 	url = http://github.com/ahhz/map_algebra
+	branch = master
 [submodule "blink_test"]
 	path = blink_test
 	url = http://github.com/ahhz/blink_test
