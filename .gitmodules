@@ -26,3 +26,7 @@
 	path = resumable_dijkstra
 	url = http://github.com/ahhz/resumable_dijkstra
 	branch = master
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest
+	branch = master
