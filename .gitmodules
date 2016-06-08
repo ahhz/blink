@@ -13,6 +13,7 @@
 [submodule "blink_test"]
 	path = blink_test
 	url = http://github.com/ahhz/blink_test
+	branch = master
 [submodule "moving_window"]
 	path = moving_window
 	url = http://github.com/ahhz/moving_window
@@ -24,3 +25,4 @@
 [submodule "resumable_dijkstra"]
 	path = resumable_dijkstra
 	url = http://github.com/ahhz/resumable_dijkstra
+	branch = master
